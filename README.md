@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gyanranjan-ojha
 - 👀 I’m interested in coding, new skills, new technologies.
-- 🌱 I’m currently learning python full stack
-- 💞️ I’m looking to collaborate on companies where my skills are suitable for there requirements.
+- 🌱 I’m currently python full stack developer.
 - 📫 contact via email: gyanranjanojha1@gmail.com
 
 <!---
