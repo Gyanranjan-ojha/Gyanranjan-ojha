@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gyanranjan-ojha
 - 👀 I’m interested in coding, new skills, new technologies.
-- 🌱 I’m currently python full stack developer.
+- 🌱 I’m currently working as python developer in Gameopedia organization with having +2.6 years' experience.
 - 📫 contact via email: gyanranjanojha1@gmail.com
 
 <!---
