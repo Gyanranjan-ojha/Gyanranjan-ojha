@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gyanranjan-ojha
 - 👀 Passionate Python Developer with a focus on building scalable web applications and APIs. Always eager to learn new technologies and optimize backend systems.
-- 🌱 Currently working as a Python Developer at Gameopedia with 2.6+ years of experience in backend development, cloud services (AWS), and CI/CD.
+- 🌱 Currently working as a Python Developer at Gameopedia with 3+ years of experience in backend development, cloud services (AWS), and CI/CD.
 - 💼 I’ve worked on projects involving Django, FastAPI, Flask, and cloud-based solutions, including building APIs, API Gateway and caching system, data processing tools, and game matchmaking systems.
 - 📫 Feel free to reach out via email: gyanranjanojha1@gmail.com
